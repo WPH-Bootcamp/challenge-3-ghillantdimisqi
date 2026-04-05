@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+@media screen {width: 738px; height: 120px;
+    
+}
